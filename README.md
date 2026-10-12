@@ -48,7 +48,7 @@ https://github.com/felipedantasss/vinharia-agnello
 
 https://felipedantasss.github.io/vinharia-agnello/
 
-## Efeitos Visuais do Projeto
+## Efeitos visuais
 
 O projeto utiliza CSS para deixar a navegação mais interativa e agradável. Foram aplicados:
 

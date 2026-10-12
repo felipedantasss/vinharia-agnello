@@ -46,4 +46,14 @@ https://github.com/felipedantasss/vinharia-agnello
 
 ## GitHub Pages
 
-O site será publicado utilizando o GitHub Pages.
+https://felipedantasss.github.io/vinharia-agnello/
+
+## Efeitos Visuais
+
+O projeto utiliza CSS para deixar a navegação mais interativa e agradável. Foram aplicados:
+
+- **Pseudo-classes:** efeitos ao passar o mouse nos links, foco nos campos e destaque nas linhas da tabela.
+- **Pseudo-elementos:** detalhes decorativos nos títulos.
+- **Animações:** entrada suave do conteúdo da página.
+- **Transições:** mudanças suaves nos links e botões.
+- **Transformações:** movimentos e efeitos nas imagens e nos botões.

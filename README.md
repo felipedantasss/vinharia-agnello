@@ -28,7 +28,7 @@ O site apresenta a história da Vinharia, diferentes tipos de vinhos, experiênc
 - Vídeo
 - Lista de experiências
 - Tabela de vinhos
-- Formulário de contato
+- Área de contato
 - Layout responsivo
 - Links entre as páginas
 
@@ -42,13 +42,13 @@ Felipe Dantas
 
 ## GitHub
 
-https://github.com/felipedantasss/vinharia-agnello
+[Repositório do projeto](https://github.com/felipedantasss/vinharia-agnello)
 
 ## GitHub Pages
 
-https://felipedantasss.github.io/vinharia-agnello/
+[Visitar o site da Vinharia Agnello](https://felipedantasss.github.io/vinharia-agnello/)
 
-## Efeitos visuais
+## Efeitos Visuais
 
 O projeto utiliza CSS para deixar a navegação mais interativa e agradável. Foram aplicados:
 
